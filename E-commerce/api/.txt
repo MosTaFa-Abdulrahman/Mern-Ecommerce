@@ -1,0 +1,4 @@
+Bearer 
+// Links Useful //
+1- https://stripe.com/docs/payments/accept-a-payment?platform=web
+// Links Useful //
